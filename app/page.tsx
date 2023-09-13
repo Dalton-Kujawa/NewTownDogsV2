@@ -1,8 +1,11 @@
+
 import './page.css'
+
 
 export default function Home() {
   return (
    <body>
+
 <div className="overlay"></div>
 <div className="stars" aria-hidden="true"></div>
 <div className="starts2" aria-hidden="true"></div>
@@ -13,6 +16,10 @@ export default function Home() {
 		<h2 className="sub-title">Site Under Construction</h2>
 	</section>
 </main>
+
+    <h2>Under Construction!</h2>
+    
+
    </body>
   )
 }
