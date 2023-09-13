@@ -17,7 +17,6 @@ export default function Home() {
 	</section>
 </main>
 
-    <h2>Under Construction!</h2>
     
 
    </body>
